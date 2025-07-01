@@ -20,12 +20,12 @@ Encontrar uma relação entre escolas da rede pública e privada, para tentar an
 
 Algumas das hipóteses levantas foram:
 
-Quantidade de escolas por tipo de dependência, por estado.
-Quantidade de escolas conforme sua localidade (zona urbana e rural), de acordo com a dependência.
-Rancking dos 10 municípios com mais escolas no sudeste.
-Quantidade de escolas conforme sua localidade.
-Média de alunos por escola - estado, localização e dependência.
-Quantidade de escolas com banheiro e que possuem banheiro PNE.
-Quantidade de alunos matrículados por faixa etária.
-Relação das escolas que tem cozinha e servem refeição.
-Escolas com educação indígena, conforme os tipos de línguas ensinadas.
+-  Quantidade de escolas por tipo de dependência, por estado.
+-  Quantidade de escolas conforme sua localidade (zona urbana e rural), de acordo com a dependência.
+-  Rancking dos 10 municípios com mais escolas no sudeste.
+-  Quantidade de escolas conforme sua localidade.
+-  Média de alunos por escola - estado, localização e dependência.
+-  Quantidade de escolas com banheiro e que possuem banheiro PNE.
+-  Quantidade de alunos matrículados por faixa etária.
+-  Relação das escolas que tem cozinha e servem refeição.
+-  Escolas com educação indígena, conforme os tipos de línguas ensinadas.
