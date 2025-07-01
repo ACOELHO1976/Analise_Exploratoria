@@ -2,8 +2,11 @@
 Notebook criado exclusivamente para o MVP da disciplina de Análise de Dados
 
 Aluno: Alex Joaquim Coelho
+
 Dataset: Microdados do Censo Escolar da Educação Básica 2024 (INEP)
+
 Onde encontrar o Dataset original: https://download.inep.gov.br/dados_abertos/microdados_censo_escolar_2024.zip Onde encontrar o Dataset usado aqui: https://github.com/ACOELHO1976/Analise_Exploratoria
+
 Algumas observações: Tanto o arquivo CVS, quanto arquivos que ajudam a complemetar e entender mais do trabalho podem ser encontrados no endereço
 
 # Dificuldade encontrada
