@@ -5,7 +5,9 @@ Aluno: Alex Joaquim Coelho
 
 Dataset: Microdados do Censo Escolar da Educação Básica 2024 (INEP)
 
-Onde encontrar o Dataset original: https://download.inep.gov.br/dados_abertos/microdados_censo_escolar_2024.zip Onde encontrar o Dataset usado aqui: https://github.com/ACOELHO1976/Analise_Exploratoria
+Onde encontrar o Dataset original: https://download.inep.gov.br/dados_abertos/microdados_censo_escolar_2024.zip 
+Onde encontrar o Dataset usado aqui: https://github.com/ACOELHO1976/Analise_Exploratoria
+Onde encontrar a análise realizada: https://colab.research.google.com/github/ACOELHO1976/Analise_Exploratoria/blob/main/mvpAnalisededados.ipynb
 
 Algumas observações: Tanto o arquivo CVS, quanto arquivos que ajudam a complemetar e entender mais do trabalho podem ser encontrados no endereço
 
