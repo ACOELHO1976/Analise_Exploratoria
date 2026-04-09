@@ -25,13 +25,14 @@ Algumas das hipóteses levantas foram:
 -  Rancking dos 10 municípios com mais escolas no sudeste.
 -  Quantidade de escolas conforme sua localidade.
 -  Média de alunos por escola - estado, localização e dependência.
--  Quantidade de escolas com banheiro e que possuem banheiro PNE.
--  Quantidade de alunos matrículados por faixa etária.
+-  Disponibilidade de Infraestrutura por Estado
+-  Acessibilidade de escolas com banheiro PNE.
 -  Relação das escolas que tem cozinha e servem refeição.
+-  Quantidade de alunos matrículados por faixa etária.
 -  Escolas com educação indígena, conforme os tipos de línguas ensinadas.
 
 # Conclusão
 
 A análise e pré-processamento do dataset do sendo escolar de 2024 se apresentou bastante rico em informações simples e muito conclusivas. O dataset é bem estruturado, pois sas informações são todas baseadas em respostas de SIM ou NÃO, estruturadas em 0 ou 1, tornando mais fácil a análise. Ao realizar a análise exploratória, ficou nítida que a apresentação dos dados já normalizados entre respostas simples de 0 ou 1, facilitou a análise. Apesar de saber que as etapas de normalização e padronização são fundamentais para preparar os dados para diversos algoritmos de aprendizado de máquina, o dataset escolhido não apresentou problemas como informações categorizadas ou ausências de informações que inviabilizasem as análises. Novamente aqui trago apenas a dificuldade encontrada em se trabalhar com um dataset muito grande, por isso fo adotado um "corte", analisando apenas sobre o aspecto da região Sudeste.
 
-De todas as hipósteses levantas, que foram todas atendidas, ficou nítido a predominância do estado de São Paulo na gerição Sudeste, muito pelo seu próprio tamanho e a necessidade de atendimento de mais pessoas. Porém, ficou também demonstrado toda a dificuldade que a zona rural tem, tanto na quantidade de escolas, não importando de quem é a competência, quanto sobre a questão de infraestrutura.
+De todas as hipósteses levantas, que foram todas atendidas, ficou nítido a predominância do estado de São Paulo na gerição Sudeste, muito pelo seu próprio tamanho e a necessidade de atendimento de mais pessoas. Porém, ficou também demonstrado toda a dificuldade que a zona rural tem, principalemnte na quantidade de escolas, não importando de quem é a competência.
